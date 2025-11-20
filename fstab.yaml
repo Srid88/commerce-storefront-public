@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p122506-e1205203.adobeaemcloud.com/bin/franklin.delivery/Srid88/commerce-storefront-public/main"
+    url: "https://author-p122506-e1213962.adobeaemcloud.com/bin/franklin.delivery/Srid88/commerce-storefront-public/main"
     type: "markup"
     suffix: ".html"
   
