@@ -12,7 +12,7 @@
       },
       "analytics": {
         "base-currency-code": "USD",
-        "environment": "Production",
+        "environment": "Testing",
         "environment-id": "CUtu8iPwpbnGEMMSqfijp7",
         "locale": "en-US",
         "store-url": "https://main--commerce-storefront-public--srid88.aem.live/",
