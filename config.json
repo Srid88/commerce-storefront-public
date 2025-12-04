@@ -4,10 +4,11 @@
       "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CUtu8iPwpbnGEMMSqfijp7/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CUtu8iPwpbnGEMMSqfijp7/graphql",
       "headers": {
-        "cs": {
+         "cs": {
           "AC-Environment-Id": "CUtu8iPwpbnGEMMSqfijp7",
-          "AC-View-ID": "515eb6c7-ed1f-4438-809d-5b6056e846f7",
-          "AC-Source-Locale": "en-US"
+          "AC-View-ID": "fa08da03-b184-4eb5-9cda-d7304a466310",
+          "AC-Source-Locale": "en-US",
+          "AC-Price-Book-Id": "east_coast_inc"
         }
       },
       "analytics": {
@@ -18,7 +19,7 @@
         "store-url": "https://main--commerce-storefront-public--srid88.aem.live/",
         "store-view-currency-code": "USD",
         "storefront-template": "Other",
-        "view-id": "515eb6c7-ed1f-4438-809d-5b6056e846f7"
+        "view-id": "fa08da03-b184-4eb5-9cda-d7304a466310"
       },
       "plugins": {
         "picker": {
